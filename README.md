@@ -5,7 +5,7 @@
 I’m a high school STEM student with a deep passion for AI and technology. I enjoy turning ideas into real systems through coding, experimentation, and problem-solving, with projects spanning machine learning, computer vision, reverse-engineering and hardware integration.
 
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-eltahawy-8a6673297/" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/MohamedEltahawy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="http://discordapp.com/users/1247281318681645221" target="_blank">
